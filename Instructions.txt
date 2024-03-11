@@ -1,0 +1,23 @@
+To create new Nextjs project
+    npx create-next-app@latest ./
+Ui Library
+    npx shadcn-ui@latest init
+        npx shadcn-ui@latest add button
+        npx shadcn-ui@latest add sheet
+To run the web app
+    npm run dev
+ctrl+w
+    To close all the open windows
+For Authnetication we will use
+    https://clerk.com/
+    npm install @clerk/nextjs
+
+MongoDb
+https://www.mongodb.com/atlas/database
+userid:surymourya
+password:yqIleZjnuhkUw3zT
+npm install mongodb mongoose
+
+    Time 1.10
+
+    https://www.youtube.com/watch?v=Ahwoks_dawU
